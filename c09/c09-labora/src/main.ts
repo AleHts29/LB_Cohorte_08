@@ -1,0 +1,6 @@
+// import './ejemplos-ts/01-basic'
+// import './ejemplos-ts/02-obj-interfaces'
+// import './ejemplos-ts/03-array'
+// import './ejemplos-ts/04-funciones-meth'
+// import './ejemplos-ts/05-destructturing-array-obj'
+import './ejemplos-ts/06-clases'

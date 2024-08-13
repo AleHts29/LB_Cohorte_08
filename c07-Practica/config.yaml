@@ -1,2 +1,2 @@
 server_address: ":8080"
-database_url: "root:root@tcp(localhost:3307)/test_DB"
+database_url: "admin:HOLA123qwe@tcp(database-2.cbws04m0ip4y.us-east-2.rds.amazonaws.com:3306)/test"
